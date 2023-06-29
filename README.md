@@ -1,4 +1,4 @@
-![image](https://github.com/Spandu06/store_dataanaylsis_using_excel/assets/97840789/718bb25f-9805-4e59-9d85-b6390e9e0663)
+
 # store_dataanaylsis_using_excel
 Store data anaylsis:
 objective(problem status):The store named META wants to create an annual sales report for 2022.so that,mata can understand their customers needs and grow more sales in upcomimg year.
@@ -17,7 +17,7 @@ work:data cleaning ,data anaylsis, data visulation,report , about insight
 Insights :																	
  * Women are more likely to buy when compared to mens its 64% women so we can introduce more 
    product related women .																	
- * Our top 3 states are Maharastra , Karnataka , Uttar pardesh.  																
+ * Our top 3 states are Maharastra , Karnataka , Uttar pardesh.  														
  * Top 3 Channels are Amazon,Myntra,Flipkart.
  * blank(except jan,dec) month got the highesr sales and order
  * almost 92% of order where delivered and 3% where cancelled and returned where as only 2 % 
